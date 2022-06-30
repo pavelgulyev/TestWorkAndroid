@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PracticeDominiGames/TestWorkAndroid/app/src/main/res/layout/activity_edit.xml" value="0.4" />
+        <entry key="..\:/PracticeDominiGames/TestWorkAndroid/app/src/main/res/layout/activity_list_item.xml" value="0.2359375" />
         <entry key="..\:/PracticeDominiGames/TestWorkAndroid/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="..\:/PracticeDominiGames/TestWorkAndroid/app/src/main/res/layout/list_item.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>
